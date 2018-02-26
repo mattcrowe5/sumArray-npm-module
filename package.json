@@ -1,0 +1,23 @@
+{
+  "name": "array-sum",
+  "version": "1.0.0",
+  "description": "sum two arrays and return in an array with integers separated by index",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattcrowe5/sumArray-npm-module.git"
+  },
+  "keywords": [
+    "array",
+    "sum"
+  ],
+  "author": "Matt Crowe <crowe.matthew5@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattcrowe5/sumArray-npm-module/issues"
+  },
+  "homepage": "https://github.com/mattcrowe5/sumArray-npm-module#readme"
+}
