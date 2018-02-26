@@ -1,5 +1,5 @@
 exports.module = {
-  sum: function sumArrays(arr1, arr2) {
+  sumArr: function sumArrays(arr1, arr2) {
     //join arrays into integers and add
     sumInt = parseInt(arr1.join("")) + parseInt(arr2.join(""));
 
