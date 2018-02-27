@@ -33,16 +33,6 @@ A final example:
     126
 ```
 
-Double Digit number
-
-```
-  123
-+ 398
-------
-  521
-
-```
-
 It is important that **you return an array as the final result**.
 
 You can make the assumption that the two method arguments will always be arrays of integers. Don't worry about validating input..
