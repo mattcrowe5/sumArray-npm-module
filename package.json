@@ -1,6 +1,6 @@
 {
   "name": "array-sum-crowe-code-challenge",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description":
     "sum two arrays and return in an array with integers separated by index",
   "main": "src/index.js",
